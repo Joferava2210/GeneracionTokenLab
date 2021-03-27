@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-generaciontoken-dev-140640-authRole",
+      "UnauthRoleArn": "arn:aws:iam::934745973131:role/amplify-generaciontoken-dev-140640-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::934745973131:role/amplify-generaciontoken-dev-140640-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-generaciontoken-dev-140640-deployment",
+      "UnauthRoleName": "amplify-generaciontoken-dev-140640-unauthRole",
+      "StackName": "amplify-generaciontoken-dev-140640",
+      "StackId": "arn:aws:cloudformation:us-east-1:934745973131:stack/amplify-generaciontoken-dev-140640/c982c770-8e6e-11eb-ac9c-1212f512cf43",
+      "AmplifyAppId": "d1zt71jpycqmv4"
+    },
+    "categories": {
+      "auth": {
+        "generaciontoken569ac3df": {}
+      }
+    }
+  }
+}

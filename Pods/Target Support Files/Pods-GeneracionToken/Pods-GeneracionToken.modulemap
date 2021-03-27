@@ -1,0 +1,6 @@
+framework module Pods_GeneracionToken {
+  umbrella header "Pods-GeneracionToken-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "generaciontoken569ac3df": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
